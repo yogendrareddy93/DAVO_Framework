@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="External_Jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/jersey-core-1.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/selenium-support-2.44.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/poi-3.14-20160307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/poi-ooxml-schemas-3.14-20160307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/javax.ws.rs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/json-20151123.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/selenium-api-2.42.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/testng-6.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/selenium-server-standalone-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/jersey-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/xmlrpc-client-3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/ws-commons-util-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/poi-ooxml-3.14-20160307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/xmlrpc-common-3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/java-client-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/mobile-webdriver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/supportlibraries/External_Jars/imageClient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
