@@ -1,0 +1,11 @@
+Starting ChromeDriver 2.29.461585 (0be2cd95f834e9ee7c46bcc7cf405b483f5ae83b) on port 17121
+Only local connections are allowed.
+Sep 05, 2017 10:11:22 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+java.io.IOException: Failed to mail or browse file:/Users/macbookpro/Documents/sharanyaUpdatedAlexa/DAVO_Framework/Results/Regression/Run_05-Sep-2017_10-11-11_AM%5CHTML%20Results%5CSummary.Html. Error code: -43
+	at sun.lwawt.macosx.CDesktopPeer.lsOpen(CDesktopPeer.java:72)
+	at sun.lwawt.macosx.CDesktopPeer.browse(CDesktopPeer.java:65)
+	at java.awt.Desktop.browse(Desktop.java:386)
+	at com.cognizant.framework.selenium.ResultSummaryManager.launchResultSummary(ResultSummaryManager.java:245)
+	at allocator.Allocator.driveBatchExecution(Allocator.java:67)
+	at allocator.Allocator.main(Allocator.java:40)
